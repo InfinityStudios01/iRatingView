@@ -1,2 +1,2 @@
 # iRatingView
-A flexible widget for android to graphically represent ratings
+A flexible widget for android to graphically represent ratings (Developing)
